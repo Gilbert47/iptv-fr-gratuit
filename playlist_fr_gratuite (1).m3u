@@ -1,0 +1,25 @@
+#EXTM3U
+
+# === CINÉMA GRATUIT ===
+#EXTINF:-1 tvg-id="CineFree1" tvg-name="Film Public Domaine (FR)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Public_Domain_Mark_button.svg/200px-Public_Domain_Mark_button.svg.png" group-title="Cinéma",Film Public Domaine (FR)
+https://archive.org/download/frenchpublicdomain/VieuxFilmFR.mp4
+
+#EXTINF:-1 tvg-id="RakutenFreeMovies" tvg-name="Rakuten TV Gratuit" tvg-logo="https://play-lh.googleusercontent.com/Aloz0PN0hJmWc1cmEG2TJK5q_aSmeBPkWe9AguTKARXWACkFY7_dHq7NV7MWe5AJ_g" group-title="Cinéma",Rakuten TV Gratuit
+https://rakuten-fr.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PlutoCine" tvg-name="Pluto TV Ciné" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Pluto_TV_logo_2020.svg/2560px-Pluto_TV_logo_2020.svg.png" group-title="Cinéma",Pluto TV Ciné
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f2c830ab99d820007f8d0f3/master.m3u8?deviceType=web
+
+# === SÉRIES GRATUITES ===
+#EXTINF:-1 tvg-id="PlutoSeries" tvg-name="Pluto TV Séries FR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Pluto_TV_logo_2020.svg/2560px-Pluto_TV_logo_2020.svg.png" group-title="Séries",Pluto TV Séries FR
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f2c826b1442620007a1ab7f/master.m3u8?deviceType=web
+
+#EXTINF:-1 tvg-id="RakutenSeries" tvg-name="Rakuten Séries Gratuites" tvg-logo="https://play-lh.googleusercontent.com/Aloz0PN0hJmWc1cmEG2TJK5q_aSmeBPkWe9AguTKARXWACkFY7_dHq7NV7MWe5AJ_g" group-title="Séries",Rakuten Séries Gratuites
+https://rakuten-fr.samsung.wurl.com/manifest/playlist.m3u8
+
+# === MANGAS / ANIMÉS ===
+#EXTINF:-1 tvg-id="MangaAnime" tvg-name="Pluto TV Animés" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Pluto_TV_logo_2020.svg/2560px-Pluto_TV_logo_2020.svg.png" group-title="Mangas",Pluto TV Animés
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/61d87d71dff7fa000759127f/master.m3u8?deviceType=web
+
+#EXTINF:-1 tvg-id="MangaClassic" tvg-name="Goldorak Épisode 1" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/e/e3/Goldorak_logo.png" group-title="Mangas",Goldorak Épisode 1 (VF)
+https://archive.org/download/AnimeClassicsFR/Goldorak_Episode1_FR.mp4
